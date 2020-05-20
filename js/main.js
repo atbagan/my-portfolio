@@ -6,7 +6,7 @@ const myWork = [
     {
         'title': "Serverless Attendance App",
         'image': {
-            'desc': "example screenshot of a project involving code",
+            'desc': "example screenshot of attendance UI",
             'src': "images/attendance.png",
             'comment': ""
         }
@@ -22,10 +22,10 @@ const myWork = [
     },
 
     {
-        'title': "Work Example",
+        'title': "Othello TK",
         'image': {
-            'desc': "example screenshot of a project involving cats",
-            'src': "images/example3.png",
+            'desc': "example screenshot of othello code",
+            'src': "images/othello.png",
             'comment': ""
         }
     },
