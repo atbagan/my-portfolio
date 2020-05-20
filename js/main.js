@@ -7,7 +7,7 @@ const myWork = [
         'title': "Serverless Attendance App",
         'image': {
             'desc': "example screenshot of a project involving code",
-            'src': "images/example1.png",
+            'src': "images/attendance.png",
             'comment': ""
         }
     },
