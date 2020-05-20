@@ -16,7 +16,7 @@ const myWork = [
         'title': "Portfolio Boilerplate",
         'image': {
             'desc': "A Serverless Portfolio",
-            'src': "images/example2.png",
+            'src': "images/portfolio.png",
             'comment': ""
         }
     },
