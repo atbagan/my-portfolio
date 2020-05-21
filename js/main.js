@@ -6,7 +6,11 @@ const myWork = [
     {
         'title': "Serverless Attendance App",
         'href': "https://www.youtube.com/watch?v=3lUbfWdTlAw",
-        'desc': "Serverless location based attendance tracker. Built to be robust and scalable to an entire University.",
+        'desc': "•\tDesigned and developed a scalable serverless location-based attendance tracker for the University.\n" +
+            "•\tFront end in HTML, CSS, JavaScript\n" +
+            "•\tBack-end utilized serverless AWS architecture.  Building and deploying REST APIs in API Gateway to seamlessly communicate with front and back ends of the application.\n" +
+            "•\tLeveraging the power of Lambda functions, with Boto3, to develop a cost-efficient modern-day solution.\n" +
+            "•\tDynamoDB as the database created a robust and scalable architecture to build upon.\n",
         'image': {
             'desc': "example screenshot of attendance UI",
             'src': "images/attendance.png",
