@@ -15,8 +15,8 @@ const myWork = [
     },
 
     {
-        'title': "Portfolio Boilerplate",
-        'href': "https://github.com/atbagan/my-portfolio/blob/master/README.md",
+        'title': "Portfolio",
+        'href': "https://github.com/atbagan/my-portfolio",
         'desc': "Professional portfolio. Implemented with react.js and serverless aws architecture",
         'image': {
             'desc': "A Serverless Portfolio",
