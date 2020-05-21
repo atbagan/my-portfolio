@@ -16,7 +16,7 @@ const myWork = [
 
     {
         'title': "Portfolio Boilerplate",
-        'href': "https://example.com",
+        'href': "https://github.com/atbagan/my-portfolio/blob/master/README.md",
         'desc': "Professional portfolio. Implemented with react.js and serverless aws architecture",
         'image': {
             'desc': "A Serverless Portfolio",
@@ -27,7 +27,7 @@ const myWork = [
 
     {
         'title': "Othello TK",
-        'href': "https://example.com",
+        'href': "https://github.com/atbagan/my-portfolio/blob/master/othelloTKabagan.py",
         'desc': "OOP version of Othello.  Implemented with Tkinter and Python",
         'image': {
             'desc': "example screenshot of othello code",
