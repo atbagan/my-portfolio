@@ -5,6 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
     {
         'title': "Serverless Attendance App",
+        'href': "https://example.com",
+        'desc': "Scalable, Serverless location based attendance tracker",
         'image': {
             'desc': "example screenshot of attendance UI",
             'src': "images/attendance.png",
@@ -14,6 +16,8 @@ const myWork = [
 
     {
         'title': "Portfolio Boilerplate",
+        'href': "https://example.com",
+        'desc': "Professional portfolio. Implemented with react.js and serverless aws architecture",
         'image': {
             'desc': "A Serverless Portfolio",
             'src': "images/portfolio.png",
@@ -23,6 +27,8 @@ const myWork = [
 
     {
         'title': "Othello TK",
+        'href': "https://example.com",
+        'desc': "OOP version of Othello.  Implemented with Tkinter and Python",
         'image': {
             'desc': "example screenshot of othello code",
             'src': "images/othello.png",
