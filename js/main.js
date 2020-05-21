@@ -5,8 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
     {
         'title': "Serverless Attendance App",
-        'href': "https://example.com",
-        'desc': "Scalable, Serverless location based attendance tracker",
+        'href': "https://www.youtube.com/watch?v=3lUbfWdTlAw",
+        'desc': "Serverless location based attendance tracker. Built to be robust and scalable to an entire University.",
         'image': {
             'desc': "example screenshot of attendance UI",
             'src': "images/attendance.png",
